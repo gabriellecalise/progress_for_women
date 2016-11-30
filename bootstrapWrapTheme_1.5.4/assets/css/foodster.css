@@ -955,9 +955,10 @@ header .item .fastfood_item_two {
 header .item .fastfood_item_three {
   background-image: url('../images/fastfood_3.jpg');
 }
-header .item .grill_item_one {
-  background-image: url('../images/grill/grill_background_1.jpg');
-}
+header .item .intro_page {
+  background-image: url('../images/suffragistsParade.jpg');
+
+
 header img {
   max-width: 100%;
   height: auto;
@@ -1045,6 +1046,38 @@ header .btn:hover i.animated {
 #unique .fa {
   color: #fff;
 }
+
+
+/*
+
+#intro5{
+  z-index: 1;
+  color: #fff;
+  padding: 25px 0;
+  /* Change background image for #intro5 section here */
+  background: url('../images/sallyRide.jpg') no-repeat center center scroll;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+#intro5 .section-heading,
+#intro5 .section-subheading {
+  color: #fff;
+  font-size: 35px;
+}
+#intro5 .section-subheading {
+  font-family: 'Old Standard TT', serif;
+  font-weight: bold;
+  font-style: normal;
+}
+#intro5 .fa {
+  color: #fff;
+}
+ */
+
+
 /* Restaurants section */
 #restaurants {
   background: #e0ded9;

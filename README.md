@@ -46,6 +46,7 @@ What do you think happens as women age?
   Button:  It gets worse
     "Yup. Even if ladies make the same amount as their male counterparts early in their careers, there's something called the motherhood penalty that can trip them up later in life.
     University of Massachusetts sociologist Michelle Budig found that on average, men make 6% more when they had children, and women made 4% less for EACH child that they had. (http://www.thirdway.org/report/the-fatherhood-bonus-and-the-motherhood-penalty-parenthood-and-the-gender-gap-in-pay)
+
     The gap is also worse for women of color http://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/"
 
 
@@ -54,6 +55,12 @@ What do you think happens as women age?
     - Differences in experience, industry or education.
     - Factors that are difficult to measure such as discrimination.
       http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/
+        The Pew Research Center has determined that there IS a wage gap.
+        -	Occupational segregation differences in the number of hours worked, and educational attainment are commonly cited as factors that created the gap.
+        -	But there are reasons that experts say are contribute to 20-40% of the wage gap: discrimination, gender stereotypes, male-dominated career networks and the fact that women are less likely to negotiate for raises and promotions. These are much harder to quantify. http://www.pewsocialtrends.org/2013/12/11/on-pay-gap-millennial-women-near-parity-for-now/
+        -	some part of the pay gap may also be due to gender discrimination – women are about twice as likely as men to say they had been discriminated against at work because of their gender (18% vs. 10%). http://www.pewresearch.org/fact-tank/2015/04/14/on-equal-pay-day-everything-you-need-to-know-about-the-gender-pay-gap/
+
+
 
 
 
